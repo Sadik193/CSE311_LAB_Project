@@ -11,26 +11,20 @@ In the student database, either a student can log in by providing a username and
 
 In the university database, they can also log in and register to the website. After login, they can input/add/update the student database file. They can view the whole student database. They can check the student database with the registration database of the Admin panel and can find out whose students are already registered or not for vaccines. The students who are not registered yet view as null. They can also check the student’s list who has completed the 2/1 dose or is not vaccinated yet. 
 
-In the Admin database, they can add any student. They can increase the seat of hospitals. They can view when a student is a registered, vaccinated, etc. They can also update the information. If they want, they can delay the vaccination date of any student too. 
+In the Admin database, they can add any student. They can increase the seat of hospitals. They can view when a student is registered, vaccinated, etc. They can also update the information. If they want, they can delay the vaccination date of any student too. 
 
 In the hospital database, they can also register or log in. They can view the total seat capacity of the hospital, the total number of vaccines, how many students have already registered, etc. They can provide all other hospitals’ information. 
 
 ###  Functionality / Key feature: 
 
 
-•	 Log in 
-
-•	 Registration 
-
-•	 Forgot password
-
-•	 Insertion of data through the file 
-
-•	 Download data as pdf 
-
-•	 Sent email to students as a reminder 
-
-•	 Show data on students, Universities, and hospitals 
+ •	 Log in 
+ •	 Registration 
+ •	 Forgot password
+ •	 Insertion of data through the file 
+ •	 Download data as pdf 
+ •	 Sent email to students as a reminder 
+ •	 Show data on students, Universities, and hospitals 
 
 
 ###  Table: 
