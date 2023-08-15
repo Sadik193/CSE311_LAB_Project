@@ -17,6 +17,7 @@ In the hospital database, they can also register or log in. They can view the to
 
 ###  Functionality / Key feature: 
 
+
 •	Log in 
 •	Registration 
 •	Forgot password
@@ -27,6 +28,8 @@ In the hospital database, they can also register or log in. They can view the to
 
 
 ###  Table: 
+
+
 •	Student information 
 •	University information 
 •	Hospital information 
