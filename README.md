@@ -18,27 +18,27 @@ In the hospital database, they can also register or log in. They can view the to
 ###  Functionality / Key feature: 
 
 
-•	Log in 
-•	Registration 
-•	Forgot password
-•	Insertion data through file 
-•	Download data as pdf 
-•	Sent email to students as a reminder 
-•	Show data of student, University and hospitals 
+•	 Log in 
+•	 Registration 
+•	 Forgot password
+•	 Insertion data through file 
+•	 Download data as pdf 
+•	 Sent email to students as a reminder 
+•	 Show data of student, University and hospitals 
 
 
 ###  Table: 
 
 
-•	Student information 
-•	University information 
-•	Hospital information 
-•	login  
-•	Tables for each hospital separately with registered people’s date 
+•	 Student information 
+•	 University information 
+•	 Hospital information 
+•	 login  
+•	 Tables for each hospital separately with registered people’s date 
 
 ###  Goal:
-●	Easy registration method
-●	Students can manage their data easily.
-●	Universities can manage their data easily.
-●	Hospitals can manage their data easily.
+●	 Easy registration method
+●	 Students can manage their data easily.
+●	 Universities can manage their data easily.
+●	 Hospitals can manage their data easily.
 
